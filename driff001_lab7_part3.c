@@ -1,6 +1,6 @@
 /*	Author: Dylan Riffel
  *  Partner(s) Name: 
- *	Lab Section:
+ *	Lab Section: 22
  *	Assignment: Lab 7  Exercise 3
  *	Exercise Description: [optional - include for your own benefit]
  *
